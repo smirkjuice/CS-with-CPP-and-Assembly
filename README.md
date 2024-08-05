@@ -1,4 +1,3 @@
-This is a little test program. C# calls a C++ function, and the C++ function calls an Assembly function. Insanely inefficient and pretty slow, but it's just a test so y'know.
 ---
 ## How to build and run
 
