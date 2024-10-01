@@ -1,6 +1,6 @@
 A useless little program that uses C# to call C++ code, then C++ calls Assembly code
 <br>
-## How to build and run
+## How To Build And Run (x86_64)
 ```
 dotnet new console
 nasm -f elf64 hey.asm -o hey.o # For Windows, do 'win64' instead of elf64
